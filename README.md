@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lance Mendoza.
 - 👀 I’m interested in programming, troubleshooting and figure out the problems with code. 
-- 🌱 I’m taking up the never ever ending challenge of learning XML, C# and C++.
+- 🌱 I’m taking up the never ever ending challenge of learning Python, C# and C++. Maybe XML.
 - 💞️ Currently I am not looking to collaborate.  
 - 📫 How to reach me shoot me a message
 
